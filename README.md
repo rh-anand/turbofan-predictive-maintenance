@@ -6,3 +6,4 @@ Obtaining the data: downloaded from {https://phm-datasets.s3.amazonaws.com/NASA/
 
 Directory
 - /data/raw: contains raw data downloaded straight from source
+- /notebooks: contains notebook for EDA
